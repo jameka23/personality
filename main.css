@@ -1,0 +1,27 @@
+img {
+    width: 239px;
+    height: 220px
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 25px;
+    background-color: rgb(9, 94, 96);
+    align-items: center;
+}
+
+.container {
+    display: flex;
+}
+
+.cards {
+    border: 1px dotted black;
+    background-color: rgb(107, 203, 203)
+}
+
+.famous {
+    display: flex;
+
+}
